@@ -10,11 +10,11 @@ class BankAccount
   end
 
   def deposit
-    
+
   end
 
   def display_balance
-    
+
   end
 
   def valid?
@@ -23,6 +23,6 @@ class BankAccount
   end
 
   def close_account
-    
+
   end
 end
