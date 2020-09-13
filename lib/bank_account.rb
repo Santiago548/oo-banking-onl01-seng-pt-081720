@@ -9,8 +9,8 @@ class BankAccount
 
   end
 
-  def deposit
-
+  def deposit(money)
+    
   end
 
   def display_balance
