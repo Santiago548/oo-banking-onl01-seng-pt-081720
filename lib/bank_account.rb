@@ -10,7 +10,7 @@ class BankAccount
   end
 
   def deposit(balance)
-    
+
   end
 
   def display_balance
