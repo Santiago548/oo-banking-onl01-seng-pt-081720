@@ -9,8 +9,8 @@ class BankAccount
 
   end
 
-  def deposit(money)
-
+  def deposit(balance)
+    @balnce + 1000
   end
 
   def display_balance
