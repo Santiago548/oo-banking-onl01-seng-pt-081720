@@ -18,12 +18,7 @@ class BankAccount
   end
 
   def valid?
-    @broke = 0
-    if @status == "closed" && @balance == @broke
-      false
-    else
-      true
-    end
+    balance > 0 && status =="open"
   end
 
   def close_account
